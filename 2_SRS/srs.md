@@ -135,7 +135,7 @@ Với mỗi ca sử dụng, cần có các thành phần sau:
 Yêu cầu về các định dạng dữ liệu của các hệ thống bên ngoài (nếu có).
 
 Ví dụ như dữ liệu quản lý thu chi trước đó phải ở định dạng .xls hoặc .xlsx để có thể import vào hệ thống mà không xảy ra lỗi.
-
+open 
 ### Functional Requirements
 
 (Các yêu cầu chức năng)

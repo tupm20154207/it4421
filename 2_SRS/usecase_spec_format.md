@@ -19,4 +19,4 @@ Trong trường hợp không có thay đổi gì nhiều trong việc chỉnh s�
 
 ## Khuôn dạng bản đặc tả ca sử dụng
 
-Hiện tại t đang hỏi thầy để thống nhất cách viết, nội dung phần này sẽ được cập nhật sau. Trước hết, mọi người hãy cho ý kiến về biểu đồ tổng quan và cách thức phân công công việc.
+
